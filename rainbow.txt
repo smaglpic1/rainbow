@@ -1,3 +1,4 @@
 1. The first color of the rainbow is red.
 2. The second color of the rainbow is orange.
-   Secondary color adding
+2. The third color of the rainbow is yellow.
+3. The fourth color of the rainbow is green.
